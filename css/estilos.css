@@ -1,0 +1,14 @@
+h1{
+width: 8px;
+font-size: 80px;
+color: blueviolet;
+font-family: cursive;
+background-position: center;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    position: center;
+    background-position: center;
+}
